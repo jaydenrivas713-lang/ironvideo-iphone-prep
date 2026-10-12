@@ -1,0 +1,10 @@
+{
+  "name": "IronVideo Offline Prep",
+  "short_name": "IronVideo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d12",
+  "theme_color": "#090d12",
+  "icons": [{ "src": "./ironvideo-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
